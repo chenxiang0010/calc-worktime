@@ -1,4 +1,5 @@
 use std::process;
+
 use calc_worktime::run;
 
 fn main() {
